@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiInfra_1", "apiInfra_1.csproj", "{D5C30BDF-B087-4AE1-B5D1-C22DCDC5748D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5C30BDF-B087-4AE1-B5D1-C22DCDC5748D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C30BDF-B087-4AE1-B5D1-C22DCDC5748D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C30BDF-B087-4AE1-B5D1-C22DCDC5748D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C30BDF-B087-4AE1-B5D1-C22DCDC5748D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6BA2AF4-2BB8-46A0-A515-4805DAD6C929}
+	EndGlobalSection
+EndGlobal
